@@ -25,6 +25,7 @@
     --button-depth: 4px;
     --button-resistance: 3px;
 
+    display: block;
     appearance: button;
     outline: none;
     border: none;
